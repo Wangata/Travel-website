@@ -1,2 +1,1 @@
-# Martin-wangata
-Brad Traversy media
+# Martin Wangata 
